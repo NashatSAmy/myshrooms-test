@@ -1,1 +1,2 @@
 # myshrooms-test
+This is another practice project but im takking this chance to make a kinda of a prototype of my business website home page using only HTML and CSS and im not gonna make it mobile ready right now i will do it later. --> 15/5/2022
